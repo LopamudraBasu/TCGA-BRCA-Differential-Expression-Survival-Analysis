@@ -25,14 +25,15 @@ The main objectives of this project were to:
 
 ## Dataset
 
-Dataset: TCGA Breast Invasive Carcinoma (TCGA-BRCA)
+The data used in this project were obtained from the TCGA Breast Invasive Carcinoma (TCGA-BRCA) dataset.
 
-Data used in this project:
+The following publicly available datasets were used:
 
 - Gene expression data
-- Clinical information
-- Overall survival information
+- Clinical data
+- Overall survival data
 
+Due to the large file size, the raw datasets are not included in this repository. They can be downloaded from the UCSC Xena Browser or the Genomic Data Commons (GDC) Data Portal.
 ---
 
 ## Software and Packages
@@ -88,14 +89,13 @@ These findings demonstrate how transcriptomic analysis can help identify potenti
 ## Repository Structure
 
 ```text
-TCGA-BRCA-Differential-Expression-Survival-Analysis
+Integrated-Transcriptomic-Analysis-of-TCGA-Breast-Cancer-TCGA-BRCA-
 
-├── scripts/
 ├── figures/
 ├── results/
-├── data/
+├── scripts/
 └── README.md
-```
+
 
 ---
 
